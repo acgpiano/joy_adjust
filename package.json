@@ -1,0 +1,11 @@
+{
+  "name": "joy_adjust",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:acgpiano/joy_adjust.git",
+  "author": "atm <zzs0@zzs0.com>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "11"
+  }
+}
